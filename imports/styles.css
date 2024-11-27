@@ -19,6 +19,13 @@ body {
     line-height: 5%;
 }
 
+h4, h5, h3, h2, h1, p {
+    color: white;
+    font-family: "JetBrains Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
 .navbar > h2 {
     font-size: 200%;
     color: white;
