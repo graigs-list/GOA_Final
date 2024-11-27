@@ -17,7 +17,7 @@ body {
 }
 
 .navbar > h2 {
-    font-size: 7%;
+    font-size: 200%;
     color: white;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
@@ -27,6 +27,6 @@ body {
     padding: 0;
     border: 0;
     position: fixed;
-    left: 1.5%;
-    top: 1.5%;
+    left: 3%;
+    top: 3%;
 }
