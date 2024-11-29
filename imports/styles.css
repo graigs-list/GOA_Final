@@ -75,6 +75,10 @@ div.text {
 #text_2 {
     position: relative;
     top: calc(100vh - 99.4333px);
+    text-align: right;
+}
+
+#text_2 > * {
     position: absolute;
     right: 0;
 }
