@@ -76,7 +76,7 @@ div.text {
 #text_1 {
     position: relative;
     left: 0;
-    top: 10vh;
+    top: 0;
 }
 
 #text_2 {
@@ -86,7 +86,7 @@ div.text {
     border: 0;
     display: inline-block;
     position: relative;
-    top: calc(100vh - 124.4333px);
+    top: calc(90vh - 124.4333px);
     text-align: right;
     right: -40px
 }
@@ -94,5 +94,5 @@ div.text {
 #text_3 {
     position: relative;
     left: 0;
-    top: 100vh;
+    top: 0;
 }
