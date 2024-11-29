@@ -109,9 +109,9 @@ div.text {
     right: -51px
 }
 
-#sld_bg_1 {
+#img_bg_3 {
     left: 0;
-    top: 0;
+    top: 0-13vh;
     z-index: -1;
     background-image: url("https://www.worldincontext.com/content/images/2023/04/Dja7jBeWsAAj_Vn.jpg");
     text-align: center;
