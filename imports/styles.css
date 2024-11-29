@@ -59,9 +59,9 @@ h4, h5, h3, h2, h1, p {
 }
 
 #img_bg_2 {
-    background-image: url("https://static.vecteezy.com/system/resources/previews/028/237/379/non_2x/contaminated-water-concept-dirty-water-flows-from-the-pipe-into-the-river-sea-water-pollution-environment-contamination-ai-generative-photo.jpg");
+    background-image: url("https://www.savethechildren.org.ph/__resources/userfiles/image/program-stories/growing_up_with_dirty_water/01.jpg");
     left: 0;
-    top: 100vh;
+    top: 0;
     z-index: -1;
 }
 
