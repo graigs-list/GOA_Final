@@ -41,10 +41,6 @@ h4, h5, h3, h2, h1, p {
     left: 2%;
 }
 
-.header {
-    margin-top: calc(10vh + 1em);
-}
-
 .background {
     position: fixed;
     width: 100vw;
@@ -68,4 +64,13 @@ div.text {
     padding: 0;
     border: 0;
     display: inline-block;
+    position: fixed;
+    left: 0;
+    top: 10vh;
+}
+
+#text_2 {
+    top: 100vh;
+    right: 0;
+    text-align: right;
 }
