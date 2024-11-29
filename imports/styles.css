@@ -42,7 +42,7 @@ h4, h5, h3, h2, h1, p {
 }
 
 .background {
-    position: fixed;
+    position: relative;
     width: 100vw;
     height: 100vh;
     image-orientation: from-image;
