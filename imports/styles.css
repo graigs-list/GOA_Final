@@ -62,7 +62,7 @@ h4, h5, h3, h2, h1, p {
     background-image: url("https://www.savethechildren.org.ph/__resources/userfiles/image/program-stories/growing_up_with_dirty_water/01.jpg");
     left: 0;
     top: 0;
-    z-index: -1;
+    z-index: -2;
 }
 
 div.text {
@@ -104,7 +104,15 @@ div.text {
     border: 0;
     display: inline-block;
     position: relative;
-    top: calc(90vh - 124.4333px);
+    top: calc(90vh - 145.4333px);
     text-align: right;
-    right: -40px
+    right: -51px
+}
+
+#sld_bg_1 {
+    left: 0;
+    top: 0;
+    z-index: -1;
+    background-color: rgba(50,50,50);
+    text-align: center;
 }
