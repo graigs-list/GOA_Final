@@ -73,12 +73,17 @@ div.text {
 }
 
 #text_2 {
+    background-color: rgb(50, 50, 50);
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: inline-block;
     position: relative;
-    top: calc(100vh - 99.4333px);
+    top: calc(100vh - 124.4333px);
     text-align: right;
 }
 
-#text_2 > * {
+div.text#text_2 > * {
     position: absolute;
     right: 0;
 }
