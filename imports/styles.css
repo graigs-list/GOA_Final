@@ -64,13 +64,22 @@ div.text {
     padding: 0;
     border: 0;
     display: inline-block;
-    position: fixed;
+}
+
+#text_1 {
+    position: relative;
     left: 0;
     top: 10vh;
 }
 
 #text_2 {
-    top: 100vh;
-    right: 0;
+    position: relative;
+    top: calc(100vh - 99.4333px);
     text-align: right;
+    top: calc(100vh - 99.4333px);
+}
+
+#text_2 {
+    position: absolute;
+    right: 0;
 }
