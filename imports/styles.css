@@ -139,7 +139,7 @@ div.text {
     width: 40%;
 }
 
-#links > a {
+a {
     color: white;
     font-family: "JetBrains Mono", monospace;
     font-optical-sizing: auto;
@@ -147,4 +147,5 @@ div.text {
     font-style: normal;
     padding: 0;
     font-size: 150%;
+    text-align: center;
 }
